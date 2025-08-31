@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top languages" height="180"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=monylangmading-ops&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monylangmading-ops&layout=compact&theme=radical" alt="Top languages" height="180"/>  
 </p>  
 
 ---
